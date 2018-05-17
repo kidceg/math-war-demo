@@ -67,6 +67,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -201,4 +203,8 @@
   font-size:13px;
   color:#000000;
   text-align:left;
+}
+._形状5 {
+}
+.flow_shape {
 }
